@@ -1,4 +1,4 @@
-The Project Gutenberg EBook of The Case of the Golden Bullet, by 
+The Project Gutenberg EBook of The Case of the Golden Bullet, by
 Grace Isabel Colbron, and Augusta Groner
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -13,6 +13,7 @@ Author: Grace Isabel Colbron, and Augusta Groner
 
 Posting Date: September 26, 2008 [EBook #1836]
 Release Date: July, 1999
+Last Updated: February 20, 2015
 
 Language: English
 
@@ -281,7 +282,7 @@ comes."
 
 Muller nodded. Johann disappeared, returning in a few moments with a
 small hatchet, and followed the commissioner through the dining-room. It
-was an attractive apartment with its high wooden paneling and its dainty
+was an attractive apartment with its high wooden panelling and its dainty
 breakfast table. But a slight shiver ran through the commissioner's
 frame as he realised that some misfortune, some crime even might be
 waiting for them on the other side of the closed door. The bedroom door
@@ -698,8 +699,9 @@ consultation with the valet.
 "How long is it since the Professor began to give you money to go to the
 theatre on Saturday evenings?"
 
-The first time it happened was on my name day. "What's the rest of your
-name? There are so many Johanns on the calendar."
+"The first time it happened was on my name day."
+
+"What's the rest of your name? There are so many Johanns on the calendar."
 
 "I am Johann Nepomuk."
 
@@ -1059,7 +1061,7 @@ respectfully.
 "Yes," replied the other, pushing back the dog, which fawned upon him.
 
 "Come back here, Tristan," called the servant, pulling the dog in by his
-collar, as lie closed the door and re-entered the house.
+collar, as he closed the door and re-entered the house.
 
 The Councillor took the path to the station. He walked slowly, with
 bowed head and uneven step. He did not look like a man who was in the
@@ -1165,7 +1167,7 @@ I would rather not have any of the other servants about."
 
 "I'll keep the cook out of the way if you want me to."
 
-"That would be a good idea. It isn't easy to talk, business before
+"That would be a good idea. It isn't easy to talk business before
 others," remarked the old man as they entered the room. It was a
 comfortably furnished and cozily warm apartment. Only two people were
 there, an old woman and a pretty young girl, who both looked up in
@@ -1370,13 +1372,13 @@ this, so greatly were they interested in the task that had brought them
 there. First of all, they made a most minute examination of the two
 doors which had been locked. The keys were still in both locks on
 the inside. They were big heavy keys, suitable for the tall massive
-heavily-paneled and iron-ornamented doors. The entire villa was built
+heavily-panelled and iron-ornamented doors. The entire villa was built
 in this heavy old German style, the favourite fashion of the last few
 years.
 
 When they had looked the locks over carefully, Muller lit the lamp that
 hung over the desk in the study and closed the window shutters tight.
-Bauer had smiled at first as he watched his, protege's actions, but
+Bauer had smiled at first as he watched his protege's actions, but
 his smile changed to a look of keen interest as he suddenly understood.
 Muller took his place in the chair before the desk and looked over at
 the door of the vestibule, which was directly opposite him. "Yes, that's
@@ -1533,7 +1535,7 @@ goldsmith had arrived at the end of the notice.
 
 Several hours later, Muller re-entered the police station in his home
 town and saw the windows of the chief's apartment brilliantly lighted.
-"What's going on," he asked of Baner's servant who was just hurrying up
+"What's going on," he asked of Bauer's servant who was just hurrying up
 the stairs.
 
 "The mistress' birthday, we've got company."
@@ -1625,7 +1627,7 @@ The detective told him his name.
 
 "Muller, Muller," repeated the Councillor, as if he were particularly
 anxious to remember the name. He held out his hand to the detective.
-"I thank you, ab, indeed, it thank you," he said with the first sign
+"I thank you, indeed, thank you," he said with the first sign
 of emotion he had shown, and then added low: "Do not fear that you will
 have trouble on my account. They can find me in my home." With these
 words he turned away and sat down in his chair again. When Bauer entered
@@ -1725,7 +1727,7 @@ particularly difficult case arises.
 
 
 
-End of the Project Gutenberg EBook of The Case of the Golden Bullet, by 
+End of the Project Gutenberg EBook of The Case of the Golden Bullet, by
 Grace Isabel Colbron, and Augusta Groner
 
 *** END OF THIS PROJECT GUTENBERG EBOOK THE CASE OF THE GOLDEN BULLET ***
